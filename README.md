@@ -18,10 +18,13 @@ This Streamlit app is a data visualization tool that allows users to explore and
 
 ## Features
 
-    Interactive dropdown menus to select cost of living indices (e.g. Rent Index, Cost of Living Index, Groceries Index) and countries
-    Bar charts to visualize the selected indices for each country
-    Ability to compare multiple countries and indices in a single chart
-    Customizable title and color scheme for the charts
+    1) Interactive dropdown menus to select cost of living indices (e.g. Rent Index, Cost of Living Index, Groceries Index) and countries.
+    
+    2) Bar charts to visualize the selected indices for each country
+    
+    3) Ability to compare multiple countries and indices in a single chart
+    
+    4) Customizable title and color scheme for the charts
 
 ## Getting Started
 
