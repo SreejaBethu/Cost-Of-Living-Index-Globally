@@ -1,4 +1,4 @@
-# Cost-Of-Living-Index-By-Country
+# Cost-Of-Living-Index-Globally
 
 ## Overview
 
