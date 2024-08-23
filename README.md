@@ -16,6 +16,10 @@ This Streamlit app is a data visualization tool that allows users to explore and
 
 [Usage](usage)
 
+[Power Bi](power-bi)
+
+[Visualization](visualization)
+
 ## Features
 
     1) Interactive dropdown menus to select cost of living indices (e.g. Rent Index, Cost of Living Index, Groceries Index) and countries.
@@ -55,6 +59,10 @@ The app uses a CSV file as input data. You can configure the app by modifying th
     Select one or more countries from the dropdown menu.
     The app will generate a bar chart showing the selected index for each country.
     You can customize the title and color scheme of the chart by modifying the code.
+
+## Power Bi
+
+![power bi](https://github.com/user-attachments/assets/569d1a90-0b98-4097-a81a-ee62441f3c44)
 
 ## Visualization
 
